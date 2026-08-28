@@ -1,0 +1,167 @@
+{
+  "ultimaJornada": {
+    "idJornada": 5,
+    "numero": 5,
+    "fecha": "26/08/2026",
+    "observaciones": "No se sabe si se jugara este dia, pero di de alta la jornada. hay que cambiar los que faltan",
+    "partidas": [
+      {
+        "numero": 1,
+        "pareja1": "Pepe y Manolo",
+        "pareja2": "Rafa y Gloria",
+        "ganador": "Pepe y Manolo"
+      },
+      {
+        "numero": 2,
+        "pareja1": "Pepe y Manolo",
+        "pareja2": "Eduardo y Rafa",
+        "ganador": "Pepe y Manolo"
+      },
+      {
+        "numero": 3,
+        "pareja1": "Manolo y Rafa",
+        "pareja2": "Eduardo y Gloria",
+        "ganador": "Eduardo y Gloria"
+      }
+    ]
+  },
+  "jornadas": [
+    {
+      "idJornada": 5,
+      "numero": 5,
+      "fecha": "26/08/2026",
+      "observaciones": "No se sabe si se jugara este dia, pero di de alta la jornada. hay que cambiar los que faltan",
+      "partidas": [
+        {
+          "numero": 1,
+          "pareja1": "Pepe y Manolo",
+          "pareja2": "Rafa y Gloria",
+          "ganador": "Pepe y Manolo"
+        },
+        {
+          "numero": 2,
+          "pareja1": "Pepe y Manolo",
+          "pareja2": "Eduardo y Rafa",
+          "ganador": "Pepe y Manolo"
+        },
+        {
+          "numero": 3,
+          "pareja1": "Manolo y Rafa",
+          "pareja2": "Eduardo y Gloria",
+          "ganador": "Eduardo y Gloria"
+        }
+      ]
+    },
+    {
+      "idJornada": 4,
+      "numero": 4,
+      "fecha": "19/08/2026",
+      "observaciones": "Mucho vicio siendo Verano",
+      "partidas": [
+        {
+          "numero": 1,
+          "pareja1": "Pepe y Manolo",
+          "pareja2": "Eduardo y Gloria",
+          "ganador": "Pepe y Manolo"
+        },
+        {
+          "numero": 2,
+          "pareja1": "Manolo y Santos",
+          "pareja2": "Gloria y Eduardo",
+          "ganador": "Gloria y Eduardo"
+        },
+        {
+          "numero": 3,
+          "pareja1": "Pepe y Santos",
+          "pareja2": "Eduardo y Gloria",
+          "ganador": "Pepe y Santos"
+        }
+      ]
+    },
+    {
+      "idJornada": 3,
+      "numero": 3,
+      "fecha": "12/08/2026",
+      "observaciones": "Vamos Por otra jornada mas",
+      "partidas": [
+        {
+          "numero": 1,
+          "pareja1": "Pepe y Santos",
+          "pareja2": "Eduardo y Gloria",
+          "ganador": "Pepe y Santos"
+        },
+        {
+          "numero": 2,
+          "pareja1": "Pepe y Santos",
+          "pareja2": "Eduardo y Gloria",
+          "ganador": "Pepe y Santos"
+        },
+        {
+          "numero": 3,
+          "pareja1": "Pepe y Gloria",
+          "pareja2": "Eduardo y Manolo",
+          "ganador": "Eduardo y Manolo"
+        }
+      ]
+    },
+    {
+      "idJornada": 2,
+      "numero": 2,
+      "fecha": "06/08/2026",
+      "observaciones": "",
+      "partidas": [
+        {
+          "numero": 1,
+          "pareja1": "Eduardo y Pepe",
+          "pareja2": "Santos y Gloria",
+          "ganador": "Eduardo y Pepe"
+        },
+        {
+          "numero": 2,
+          "pareja1": "Eduardo y Pepe",
+          "pareja2": "Ana y Manolo",
+          "ganador": "Ana y Manolo"
+        },
+        {
+          "numero": 3,
+          "pareja1": "Manolo y Ana",
+          "pareja2": "Santos y Gloria",
+          "ganador": "Manolo y Ana"
+        }
+      ]
+    },
+    {
+      "idJornada": 1,
+      "numero": 1,
+      "fecha": "05/08/2026",
+      "observaciones": "primera partida con mus pro trerminado",
+      "partidas": [
+        {
+          "numero": 1,
+          "pareja1": "Eduardo y Santos",
+          "pareja2": "Ana y Gloria",
+          "ganador": "Eduardo y Santos"
+        },
+        {
+          "numero": 2,
+          "pareja1": "Pepe y Santos",
+          "pareja2": "Ana y Gloria",
+          "ganador": "Pepe y Santos"
+        },
+        {
+          "numero": 3,
+          "pareja1": "Eduardo y Pepe",
+          "pareja2": "Ana y Gloria",
+          "ganador": "Ana y Gloria"
+        }
+      ]
+    }
+  ],
+  "caja": {
+    "totalCobrado": 0,
+    "totalGastos": 0,
+    "saldo": 0,
+    "totalPendiente": 0,
+    "pendientes": []
+  }
+}
